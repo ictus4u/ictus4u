@@ -1,4 +1,4 @@
-### Hi there 👋
+![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ictus4u&badges=3&show-avatar=true&style=--header-bg-color:%23096e6c;--border-radius:10px)
 
 <!--
 **ictus4u/ictus4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
